@@ -1,5 +1,4 @@
 # MovieLens Recommendation System
-Disclaimer : Not yet well documented
 ## About
 - Our goal is to recommend movies to users, a crucial task in the industry for upselling and other purposes. 
 - In this project, we focus on the MovieLens platform. To achieve this, we will implement a machine learning framework to develop a recommendation system. 
